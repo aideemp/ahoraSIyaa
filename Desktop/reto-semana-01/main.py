@@ -1,7 +1,7 @@
 #Volviendolo a intentar 
 import sys
 
-def limpiar_valor(valor):
+def limpiar_valor(valor):  #Implementa funcion de limpieza de valores
     """
     Limpia un valor individual:
     - Quita espacios
