@@ -43,7 +43,7 @@ def convertir_a_entero(texto):
         # Si no se puede convertir
         return 0
 
-def procesar_linea(linea):
+def procesar_linea(linea): #Implementa procesamiento de lineas y suma
     """
     Procesa una linea completa:
     - Separa por comas
