@@ -83,6 +83,6 @@ def main():
         linea = linea.rstrip('\n')
         resultado = procesar_linea(linea)
         print(resultado)
-
-if __name__ == "__main__":
+    #Agrega manejo de casos borde y mejora documentacion
+if __name__ == "__main__": 
     main()
