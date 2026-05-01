@@ -1,30 +1,35 @@
 # Sistema de Inventario Modular
 
-Proyecto del Reto Semana 4 — Programación para Ciencia de Datos, IPN.
+## Descripcion
+Sistema que genera reportes de productos que necesitan reorden.
 
-## Descripción
-Lee un inventario CSV, identifica productos con stock bajo y genera un reporte de reorden.
-
-## Estructura
+## Estructura del Proyecto
 reto_semana_04/
 ├── main.py
 ├── README.md
 ├── .gitignore
 ├── models/
-│   ├── __init__.py
+│   ├── init.py
 │   └── producto.py
 ├── utils/
-│   ├── __init__.py
+│   ├── init.py
 │   ├── io.py
 │   └── validators.py
 ├── data/
 │   └── inventario.csv
 └── outputs/
 └── reporte_inventario.csv
-## Cómo ejecutar
+
+## Como Ejecutar
 ```bash
 python main.py
 ```
 
-## Salida esperada
-El archivo `outputs/reporte_inventario.csv` contendrá los productos cuyo stock está por debajo del mínimo, ordenados de mayor a menor urgencia.
+## Entrada
+Archivo `data/inventario.csv` con columnas: sku, nombre, categoria, precio, stock, stock_minimo.
+
+## Salida
+Archivo `outputs/reporte_inventario.csv` con productos que necesitan reorden, ordenados por unidades faltantes.
+
+## Autor
+Molina Palmas Sandra AIde
