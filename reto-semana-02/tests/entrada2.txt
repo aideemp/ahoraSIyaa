@@ -1,0 +1,5 @@
+ciudad,temperatura,unidad
+CDMX,22,C
+Error,abc,C
+Miami,95,X
+Tokio,28,C

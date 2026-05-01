@@ -1,0 +1,5 @@
+ciudad,temperatura_celsius,clasificacion
+Oslo,0.0,Frio
+Lima,25.0,Templado
+Bangkok,36.0,Extremo
+Phoenix,40.0,Extremo

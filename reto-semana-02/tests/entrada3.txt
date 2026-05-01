@@ -1,0 +1,5 @@
+ciudad,temperatura,unidad
+Oslo,0,C
+Lima,25,C
+Bangkok,36,C
+Phoenix,104,F

@@ -1,0 +1,3 @@
+ciudad,temperatura_celsius,clasificacion
+CDMX,22.0,Templado
+Tokio,28.0,Calido
