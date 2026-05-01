@@ -1,4 +1,4 @@
-hol# Perfilador de Datasets
+# Perfilador de Datasets
 
 Herramienta que analiza archivos CSV y genera reportes de calidad de datos.
 
