@@ -32,4 +32,4 @@ Archivo `data/inventario.csv` con columnas: sku, nombre, categoria, precio, stoc
 Archivo `outputs/reporte_inventario.csv` con productos que necesitan reorden, ordenados por unidades faltantes.
 
 ## Autor
-Molina Palmas Sandra AIde
+Molina Palmas Sandra Aide
