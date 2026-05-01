@@ -15,3 +15,6 @@ Sistema de validación automática de códigos usando expresiones regulares para
 ## Tecnologías
 - Python 3
 - Módulo `re` (expresiones regulares)
+
+##Autor
+Molina Palmas Sandra Aide
